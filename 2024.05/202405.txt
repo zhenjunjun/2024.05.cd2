@@ -1,0 +1,16 @@
+CSS轉場與動畫
+https://eyesofkids.gitbooks.io/css3/content/contents/transform2d.html
+https://hoohoo.top/blog/css3-animation-notes/
+
+Smooth Scroll
+https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section2
+
+視差滾動
+http://static.theultrasoft.com/parallaxie/demo/
+https://www.youtube.com/watch?v=2z4OTRFuLP8
+
+捲軸動畫
+https://wowjs.uk/
+
+W3school HowTo
+https://www.w3schools.com/howto/default.asp
